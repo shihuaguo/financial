@@ -1,2 +1,2 @@
-# financial
-project for financial manage
+# 基础项目
+实现业务逻辑的基础项目
